@@ -1,4 +1,4 @@
-# Crowdfunding Success
+# Crowdfunding Success on IndieGogo | Data Analyst Project
 A data project examining successful crowdfunding campaigns on Indiegogo, utilizing Tableau. (Originally completed July 2023)
 
 ## Introduction
